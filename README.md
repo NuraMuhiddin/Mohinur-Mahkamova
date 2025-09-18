@@ -1,11 +1,50 @@
-<h1 align="center">Hi 👋, I'm Mohinur Mahkamova</h1>
-<h3 align="center">A passionate back-end developer from Uzbekistan</h3>
+<!-- Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Assalomu%20Alaykum!%20👋&fontSize=40&fontColor=fff)
 
-- 🔭 I’m currently working on **bookstore**
+# 🌟 Mohinur Mahkamova | 🚀 Python Developer & Cybersecurity Enthusiast  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🔥 *Always Learning, Always Growing* 🔥  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+## 📍 About Me
+- 💻 Backend Developer | Cybersecurity Explorer  
+- 🌱 Hozirda **Python** va **SQL**, **DataBase** ustida ishlayapman  
+- 🚀 Loyihalar: **Milliy taomlar** 🍲 va **O‘quv markazi** 🎓  
+- 🎯 Maqsad: **White Hat Hacker** bo‘lish  
+
+---
+
+## 🛠️ Texnologiyalar va Asboblar
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 Statistikam
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nurauhiddin&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuramuhiddin&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 Badges
+![Location](https://img.shields.io/badge/Fergana,%20Uzbekistan-008000?style=for-the-badge&logo=google-maps&logoColor=white)
+![Role](https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend%20Learner-ff5722?style=for-the-badge&logo=fastapi&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nuramuhiddin)
+
+---
+
+## 📫 Bog‘lanish
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nuramuhiddin7)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohinurmahkamova701@gmail.com)
+
+---
+
+⭐️ Profilimga tashrif buyurganingiz uchun rahmat!  
